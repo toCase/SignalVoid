@@ -1,2 +1,2 @@
 # SignalVoid
-prototype for game
+for now its prototype for game
